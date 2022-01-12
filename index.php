@@ -9,7 +9,8 @@ include_once('./include/_header.php');
 ?>
 <div class="alert alert-success" role="alert">
     <h4><?php echo $userData['u_username']; ?></h4>
-    <a href="logout_action.php" class="btn btn-danger">ออกจากระบบ</a>
+    <a href="logout_action.php" class="btn btn-danger">ออกจากระบบ</a> 
+    <a href="admin/user/add_user.php" class="btn btn-primary">เพิ่มผู้ใช้งาน</a>
 </div>
 
 <div class="mt-3">

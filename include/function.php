@@ -1,4 +1,6 @@
 <?php
+$baseUrl = 'http://localhost/phonebook';
+
 function connectDB()
 {
     $serverName = "127.0.0.1";
