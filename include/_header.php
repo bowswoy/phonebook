@@ -1,4 +1,4 @@
-<?php session_start(); ?><!doctype html>
+<!doctype html>
 <html lang="th" class="h-100">
 
 <head>
